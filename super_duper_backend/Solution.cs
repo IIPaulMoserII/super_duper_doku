@@ -30,7 +30,7 @@ namespace SuperDuperBackend
             {
                 for(int j = 0; j < grille.length; j++)
                 {
-                    if(grille[i][j] == 0 || )
+                    if(grille[i][j] == 0)
                     {
                         check = false;
                         break;
