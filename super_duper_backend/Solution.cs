@@ -25,6 +25,14 @@ namespace SuperDuperBackend
         /// <returns>true si la grille est résolue, false sinon</returns>
         public static bool CheckGrille(int[][] grille) {
             // TODO
+            for(int i = 0, i < )
+            {
+                for j in range(grille.Getlength(1))
+                {
+
+                }
+
+            }
             return true;
         }
     }
